@@ -1,5 +1,8 @@
 _repo: Pleasant-Talk-About-Fruits-Flowers-and-Farming_56640
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56640-h/images/cover.jpg
 creator:
   author:
     agent_name: Beecher, Henry Ward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31487
     wikipedia: http://en.wikipedia.org/wiki/Henry_Ward_Beecher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56640#Pleasant-Talk-About-Fruits-Flowers-and-Farming
 gutenberg_issued: '2018-02-25'
 gutenberg_type: Text
 identifiers:
